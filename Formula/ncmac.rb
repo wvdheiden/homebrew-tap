@@ -2,7 +2,7 @@ class Ncmac < Formula
   desc "Two-panel file manager for the terminal in classic DOS commander style"
   homepage "https://github.com/wvdheiden/ncmac"
   url "https://github.com/wvdheiden/ncmac/archive/refs/tags/v1.0.0.tar.gz"
-  sha256 "REPLACE_WITH_SHA256_OF_THE_TAG_TARBALL"
+  sha256 "b137f43dc7e64226d54f3093f53c671ee097fcccd4218f3de8f7fbafa26c00a4"
   license "MIT"
   head "https://github.com/wvdheiden/ncmac.git", branch: "main"
 
