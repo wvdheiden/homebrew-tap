@@ -3,5 +3,7 @@
 Homebrew formulae by wvdheiden.
 
 ```sh
-brew install wvdheiden/tap/ncmac
+brew tap wvdheiden/tap
+brew trust wvdheiden/tap   # Homebrew 7+
+brew install ncmac
 ```
